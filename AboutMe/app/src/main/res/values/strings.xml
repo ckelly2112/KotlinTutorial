@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Christopher Kelly</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Christopher Kelly.
+    \n\nI\'m into sports and music.
+        \n\nNot like, fanatical about these things, I just like them. I mean sure, I have
+        strong opinions about Rush, and the Toronto Maple Leafs, but if you want to wear your Canadiens jersey and
+        listen to the Biebs, then I\'m okay. (I draw the line at Nickleback and the Bruins).
+        \n\nUsually my downtime consists of playing video games.
+        \nI\'m into RPG with good stories that offer the most freedom for the player.
+        \n I also play the guitar. Not extensively mind you, but I know a couple of classic riffs that I really enjoyed learning
+    </string>
 </resources>
