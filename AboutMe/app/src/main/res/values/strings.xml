@@ -4,11 +4,18 @@
     <string name="yellow_star">Yellow Star</string>
     <string name="bio">Hi, my name is Christopher Kelly.
     \n\nI\'m into sports and music.
-        \n\nNot like, fanatical about these things, I just like them. I mean sure, I have
+        \n\nNot like I\'m fanatical about these things, I just like them. I mean sure, I have
         strong opinions about Rush, and the Toronto Maple Leafs, but if you want to wear your Canadiens jersey and
-        listen to the Biebs, then I\'m okay. (I draw the line at Nickleback and the Bruins).
-        \n\nUsually my downtime consists of playing video games.
+        listen to the Biebs, then I\'m okay.
+        \n(I draw the line at Nickleback and the Bruins).
+        \n\n\nUsually my downtime consists of playing video games.
         \nI\'m into RPG with good stories that offer the most freedom for the player.
-        \n I also play the guitar. Not extensively mind you, but I know a couple of classic riffs that I really enjoyed learning
+        \n\n I also play the guitar. Not extensively mind you, but I know a couple of classic riffs that I really enjoyed learning
+        \n\nAnother thing I love is classic movies. Mostly comedies.
+        \nMel Brooks, Monty Python, and anything with Leslie Neilson. I don\'t consider myself a huge movie buff but I
+        will often catch myself making vague references that few people would understand.
     </string>
+    <string name="flag_person">Person holding Flag</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
